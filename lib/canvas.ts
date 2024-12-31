@@ -3,7 +3,7 @@ import { v4 as uuid4 } from "uuid";
 
 import {
   CanvasMouseDown, 
-  CanvasMouseMove, 
+  CanvasMouseMove,  
   CanvasMouseUp, 
   CanvasObjectModified,
   CanvasObjectScaling,
