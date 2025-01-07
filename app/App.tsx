@@ -3,7 +3,7 @@
 import { fabric } from "fabric";
 import { useEffect, useRef, useState } from "react";
  
-import { useMutation, useRedo, useStorage, useUndo } from "@/liveblocks.config";
+import { useMutation, useRedo, useStorage, useUndo } from "@/liveblocks.config"; 
 import {
   handleCanvaseMouseMove,
   handleCanvasMouseDown,
