@@ -5,7 +5,7 @@ import { useEffect, useRef, useState } from "react";
  
 import { useMutation, useRedo, useStorage, useUndo } from "@/liveblocks.config"; 
 import {
-  handleCanvaseMouseMove,
+  handleCanvaseMouseMove, 
   handleCanvasMouseDown,
   handleCanvasMouseUp,
   handleCanvasObjectModified,
