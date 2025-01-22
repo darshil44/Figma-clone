@@ -4,7 +4,7 @@ export const shapeElements = [
   { 
     icon: "/assets/rectangle.svg",
     name: "Rectangle", 
-    value: "rectangle", 
+    value: "rectangle",  
   },    
   { 
     icon: "/assets/circle.svg", 
