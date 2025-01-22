@@ -7,7 +7,7 @@ export const shapeElements = [
     value: "rectangle", 
   },    
   { 
-    icon: "/assets/circle.svg",
+    icon: "/assets/circle.svg", 
     name: "Circle",
     value: "circle",
   },
