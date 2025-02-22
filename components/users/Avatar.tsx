@@ -2,7 +2,7 @@ import Image from "next/image";
 
 import { Tooltip, TooltipContent, TooltipTrigger } from "../ui/tooltip";
 
-type Props = {
+type Props = { 
   name: string;
   otherStyles?: string;
 };
